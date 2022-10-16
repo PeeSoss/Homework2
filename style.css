@@ -49,8 +49,8 @@ section {
 
 .photo {
     position: absolute;
-    left: 10%;
-    top: 20%;
+    left: 100%;
+    top: 25%;
 }
 
 p {
